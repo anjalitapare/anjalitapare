@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Anjali Tapare</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right"alt="coding " width="400"src"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNPgJ8ImsLgorbJF-yHO0qsZba3A69VZkdG9qeJdxXMw&s"
+<h1 align="center">Hiya! HOWDY 👋, I'm Anjali Tapare</h1>
+<h3 align="center">A passionate Full Stack developer </h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalitapare&label=Profile%20views&color=0e75b6&style=flat" alt="anjalitapare" /> </p>
 
